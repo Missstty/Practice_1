@@ -1,2 +1,2 @@
-# Изменено в person2 на MacBook
+# Изменено в person1 на macOS
 print("Hello from macOS!")

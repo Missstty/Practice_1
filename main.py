@@ -1,6 +1,2 @@
-# ВЕРСИЯ PERSON1 - Новая функциональность
+# Объединенная версия от person1 и person2
 print("Hello from macOS!")
-print("This feature was added by Person1")
-
-def feature_one():
-    return "Feature 1 from Person1"

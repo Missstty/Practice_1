@@ -1,6 +1,2 @@
-# ВЕРСИЯ PERSON2 - Улучшения для macOS
+# Изменено в person2 на MacBook
 print("Hello from macOS!")
-print("Enhancements by Person2")
-
-def feature_two():
-    return "Feature 2 from Person2"
